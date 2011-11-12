@@ -18,7 +18,6 @@ utilizados tanto nos scripts quanto diretamente pela linha de comando.
 
 # Referências
 
-[Shell Script Professinal – Aurélio Marinho Jargas](http://www.novatec.com.br/livros/shellscript/)
-
-[http://www.tldp.org/guides.html](Advanced Bash-Scripting Guide)
+- [Shell Script Professinal – Aurélio Marinho Jargas](http://www.novatec.com.br/livros/shellscript/)
+- [http://www.tldp.org/guides.html](Advanced Bash-Scripting Guide)
 
